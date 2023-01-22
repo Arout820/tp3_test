@@ -6,7 +6,7 @@ Merci à Vona!
 
 ## Explication du dossier principal
 
-A la racine se trouve le dossier **TP3** et à l'intérieur nous avons 5 dossiers et 1 fichier docker
+A la racine se trouve le dossier **TP3** et à l'intérieur nous avons 6 dossiers et 1 fichier docker
 compose :
 
 - python-api-handle-it
